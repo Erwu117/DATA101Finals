@@ -16,7 +16,7 @@ The following dependencies required are:
 
 ```bash
 pip install dash 
-pip install dash_bootstrap_components
+pip install dash-bootstrap-components
 pip install plotly 
 pip install geopandas 
 pip install pandas 
